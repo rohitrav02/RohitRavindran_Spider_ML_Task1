@@ -1,0 +1,80 @@
+● Public Documents (PDF, XLSX, DOCX,etc)
+site:tesla.com filetype:pdf
+1.tesla.com
+https://www.tesla.com/ownersmanual/modely/en_hk/Owners_Manual.pdf
+https://www.tesla.com/ownersmanual/modely/da_dk/Owners_Manual.pdf
+2.harvard.edu
+https://finance.harvard.edu/files/fad/files/fy20_harvard_financial_report.pdf
+https://scholar.harvard.edu/files/mbaum/files/rally_isq_01.pdf
+3.nasa.gov
+https://www.opm.gov/policy-data-oversight/senior-executive-service/presidential-rank-awards/2021/presidential-rank-awards-2021.pdf
+https://mars.nasa.gov/internal_resources/1489/
+● Login Pages / Admin Panels
+site:tesla.com inurl:login
+1.tesla.com
+https://auth.tesla.com/oauth2/v1/authorize?client_id=teslaweb&response_type=code&scope=openid%20email%20ou_code%20profile&redirect_uri=https%3A//www.tesla.com/nl_BE/openid-connect/generic&state=dF51kNfpxmJyyjz69xyR3XtnVhYdisl9Hcwam0BCotQ&locale=nl-BE
+https://feedback.tesla.com/login/identity-provider-select?path=%2FControlPanel%2F&product=ControlPanel&stateID=e149687b-d2fb-4517-b1e5-13f4c5cddf44
+2.harvard.edu
+https://summer.harvard.edu/login/
+https://extension.harvard.edu/login/
+3.nasa.gov
+https://stemgateway.nasa.gov/public/s/login/
+https://software.nasa.gov/login
+● Public Backup / Config Files
+site:tesla.com ext:bak OR ext:config
+1.google.com
+https://groups.google.com/g/news.config?pli=1
+https://groups.google.com/g/malta.config
+2.harvard.edu
+https://lweb.cfa.harvard.edu/supernova/highz/names.html.BAK
+https://legacy.sites.fas.harvard.edu/~hsb41/masstax/masstax.cgi.bak
+3.nasa.gov
+https://apod.nasa.gov/apod/fap/calendar/allyears.html.bak
+https://ava.jpl.nasa.gov/volcano/web.config
+● Exposed Logs / Errors
+site:tesla.com ext:log
+1.google.com
+https://sites.google.com/site/avstodvdmain/DVD_0.log
+https://sites.google.com/site/somename1234567890/Home/xbmc_windowedshortcut.log
+2.harvard.edu
+https://kurucz.harvard.edu/atoms/4301/c4301e.log
+https://open.catalyst.harvard.edu/jira/login.jsp?permissionViolation=true&os_destination=%2Fsecure%2Fattachment%2F27124%2Flocalhost.2017-02-14.log&page_caps=&user_role=
+3.nasa.gov
+https://fits.gsfc.nasa.gov/standard30/fits_standard30.log
+● Emails & Contact Info
+site:tesla.com "@tesla.com"
+1.tesla.com
+https://www.tesla.com/about
+https://www.tesla.com/careers/search/?site=IN
+press@tesla.com
+investorrelations@tesla.com
+kabbott@tesla.com
+yliu@tesla.com
+
+2.harvard.edu
+contact@harvard.edu
+admissions@harvard.edu
+info@harvard.edu
+https://college.harvard.edu/
+https://summer.harvard.edu/
+
+3.nasa.gov
+https://www.nasa.gov/
+https://science.nasa.gov/solar-system/
+kevin.n.herrera@nasa.gov
+timothy.j.sandon@nasa.gov
+
+
+● Git Folders and Env Files
+site:harvard.edu ext:env
+1.google.com
+https://groups.google.com/g/ncku.env
+https://sites.google.com/site/mattnjp/alltables.env
+
+2. nasa.gov
+https://visibleearth.nasa.gov/source/1530/.env?page=286
+https://visibleearth.nasa.gov/source/1533%27/.env?page=64
+
+3. Harvard.edu
+http://www.harvard.edu/.env
+http://www.harvard.edu/.env
